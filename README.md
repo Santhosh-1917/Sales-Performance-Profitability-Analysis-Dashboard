@@ -30,7 +30,7 @@ The dashboard is organized into four main analytical views.
 
 ## 1. Executive Overview
 
-![Executive Overview](images/Executive%20Summary.png)
+![Executive Overview](Images/Executive%20Summary.png)
 
 This dashboard provides a high-level summary of business performance.
 
