@@ -58,7 +58,7 @@ This view gives a quick understanding of overall business performance.
 
 ## 2. Performance Drivers
 
-![Performance Drivers](images/Performance%20Drivers.png)
+![Performance Drivers](Images/Performance%20Drivers.png)
 
 This dashboard analyzes the factors influencing sales and profitability.
 
@@ -120,7 +120,7 @@ A negative relationship can be observed:
 
 ## 3. Operational Analysis
 
-![Operational Analysis](images/Operational%20Analysis.png)
+![Operational Analysis](Images/Operational%20Analysis.png)
 
 This dashboard focuses on operational performance across products and regions.
 
@@ -169,7 +169,7 @@ This helps identify seasonal patterns and segment-level performance.
 
 ## 4. Insights & Recommendations
 
-![Insights and Recommendations](images/Insights%20%26%20Recommendations.png)
+![Insights and Recommendations](Images/Insights%20%26%20Recommendations.png)
 
 ### Key Insights
 
